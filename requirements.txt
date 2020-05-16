@@ -1,0 +1,12 @@
+torch
+torchvision
+visdom
+nibabel
+pandas
+tqdm
+matplotlib
+opencv-python
+matplotlib
+cython
+scipy==1.1.0
+tensorboardx
