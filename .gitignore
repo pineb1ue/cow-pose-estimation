@@ -1,5 +1,6 @@
 # weights
 *.pth
+*.pkl
 # images
 *.jpg
 *.png
@@ -7,6 +8,8 @@
 *.json
 # Detection phase
 yolo/
+# Tensor board
+train_sppe/.tensorboard/
 # __pycache__
 __pycache__
 
